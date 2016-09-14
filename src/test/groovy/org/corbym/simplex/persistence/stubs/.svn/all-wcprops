@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs
+END
+SomeObjectWithManyFieldsAndId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithManyFieldsAndId.groovy
+END
+SingletonWithLazyLoadField.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/27/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SingletonWithLazyLoadField.groovy
+END
+SomeObjectWithId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/25/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithId.groovy
+END
+FailableLazyLoader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/FailableLazyLoader.groovy
+END
+SomeObjectWithTwoFieldsAndId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/20/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithTwoFieldsAndId.groovy
+END
+SomeObjectWithoutAnnotationOnTheIdField.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithoutAnnotationOnTheIdField.groovy
+END
+SomeObjectWithDefFieldAndId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithDefFieldAndId.groovy
+END
+ObjectWithInheritedId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/25/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/ObjectWithInheritedId.groovy
+END
+ObjectWithLazyLoaderAnnotatedField.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/ObjectWithLazyLoaderAnnotatedField.groovy
+END
+SomeObjectWithoutId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/46/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/stubs/SomeObjectWithoutId.groovy
+END

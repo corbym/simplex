@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/47/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters
+END
+IterablePrioritizedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/46/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/IterablePrioritizedList.java
+END
+FilterableConverterLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/46/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/FilterableConverterLookup.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/44/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/CollectionUtils.java
+END
+IdFieldAnnotatedObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/47/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/IdFieldAnnotatedObjectConverter.java
+END
+ParentFieldTrackingMarshalListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/44/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/ParentFieldTrackingMarshalListener.java
+END
+CollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/47/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/converters/CollectionConverter.java
+END

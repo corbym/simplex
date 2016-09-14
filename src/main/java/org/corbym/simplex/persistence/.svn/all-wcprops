@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/47/simple-x/trunk/src/main/java/org/corbym/simplex/persistence
+END
+SimplexDaoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/39/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/SimplexDaoFactory.java
+END
+SimplexDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/47/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/SimplexDao.java
+END
+SimplexPersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/41/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/SimplexPersistenceException.java
+END

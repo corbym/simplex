@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/converters
+END
+CollectionConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/converters/CollectionConverterTest.groovy
+END
+ParentFieldTrackingMarshallListenerTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/44/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/converters/ParentFieldTrackingMarshallListenerTest.groovy
+END
+FilterableConverterLookupTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/46/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/converters/FilterableConverterLookupTest.groovy
+END
+IdFieldAnnotatedObjectConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/47/simple-x/trunk/src/test/groovy/org/corbym/simplex/persistence/converters/IdFieldAnnotatedObjectConverterTest.groovy
+END

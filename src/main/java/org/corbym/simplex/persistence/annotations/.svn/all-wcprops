@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/annotations
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/annotations/Id.java
+END
+LazyLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/simple-x/trunk/src/main/java/org/corbym/simplex/persistence/annotations/LazyLoad.java
+END
