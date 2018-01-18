@@ -3,13 +3,6 @@ package org.corbym.groovymud.persistence
 import org.corbym.simplex.persistence.stubs.SomeObjectWithDefFieldAndId
 import org.junit.Test
 
-/**
- * Created by IntelliJ IDEA.
- * User: Matt.Corby
- * Date: 19/02/11
- * Time: 11:25
- * To change this template use File | Settings | File Templates.
- */
 class MultiThreadedPersistenceTest extends PersistenceIntegerationTest {
     @Test
     void "multi-threaded saving object test"() {
